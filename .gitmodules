@@ -1,9 +1,9 @@
 [submodule "upstream"]
 	path = upstream
-	url = https://github.com/dtentiion/vault-a.git
+	url = https://gitea.ibatv.xyz/LegacyConsole/MCLCE-MinecraftConsoles.git
 [submodule "third_party/4JLibs"]
 	path = third_party/4JLibs
-	url = https://github.com/dtentiion/vault-b.git
+	url = https://github.com/Patoke/4JLibs.git
 [submodule "third_party/gameswf"]
 	path = third_party/gameswf
 	url = https://github.com/marmalade/gameswf.git
